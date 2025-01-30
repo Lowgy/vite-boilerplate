@@ -9,6 +9,8 @@
 3. `npm i`
 4. `npm run dev`
 
+---
+
 - Backend
 
 1. Open up a terminal for your backend
